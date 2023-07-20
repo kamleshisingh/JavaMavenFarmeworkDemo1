@@ -1,0 +1,4 @@
+[INFO ] 2023-07-17 11:47:11.109 [main] Log4j_Demo - this just and info message
+[ERROR] 2023-07-17 11:47:11.115 [main] Log4j_Demo - this is an error meessage 
+[WARN ] 2023-07-17 11:47:11.115 [main] Log4j_Demo - this is an warning  meessage 
+[FATAL] 2023-07-17 11:47:11.115 [main] Log4j_Demo - this is an fetal meessage 
