@@ -22,8 +22,8 @@ public class SauceLapsDemo {
     	browserOptions.setPlatformName("Windows 11");
     	browserOptions.setBrowserVersion("latest");
     	Map<String, Object> sauceOptions = new HashMap<>();
-    	sauceOptions.put("username", "oauth-kannusingh108-4d0e0");
-    	sauceOptions.put("accessKey", "884b609b-6aca-4528-96b2-191be47f06ee");
+    	sauceOptions.put("username", "Add your sauce lap user name");
+    	sauceOptions.put("accessKey", "add your sauce lap access key");
     	sauceOptions.put("build", "<your build id>");
     	sauceOptions.put("name", "<your test name>");
     	browserOptions.setCapability("sauce:options", sauceOptions);
